@@ -7,36 +7,36 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Integrantes: `[Robert Santos e Carlos Henrique]`
+- Data: `[24/09/2026]`
 
 ## Preenchimento
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+`[Impacto Social da Tecnologia]`
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`[Impacto social da tecnologia no mercado de trabalho.]`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Tema amplo: `[Impacto social da tecnologia]`
+- Objeto estudado: `[a reconfiguração das relações de trabalho e da identidade profissional provocada pela inteligência artificial.]`
+- Contexto ou aplicação: `[O projeto analisa a integração da IA generativa no ambiente corporativo atual]`
+- Aspecto que será analisado: `[impacto estrutural e psicossocial da IA na dinâmica de emprego]`
+- O que ficará fora do estudo: `[as análises macroeconômicas genéricas sobre desemprego em massa e as previsões puramente apocalípticas ou utópicas sobre o futuro tecnológico]`
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+`[Este tema é crucial porque a IA não está apenas substituindo a força física, mas redefinindo o topo do trabalho intelectual e criativo, gerando uma crise de identidade profissional inédita.]`
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
+- Há artigos científicos disponíveis? `[Parcialmente]`
+- O tema pode ser estudado no prazo? `[Sim]`
+- O grupo possui acesso às fontes necessárias? `[Sim]`
 
 ## Produto da etapa
 
