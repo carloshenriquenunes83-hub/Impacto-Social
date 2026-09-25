@@ -6,7 +6,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+`De que forma a automação de tarefas básicas pela IA generativa reconfigura a transição de profissionais júniores para o mercado de trabalho e quais os impactos disso na identidade do trabalho intelectual?`
 
 ## Objetivo geral
 
