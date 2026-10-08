@@ -7,7 +7,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[Robert Santos e Carlos Henrique]`
+- Integrantes: `[José Kailon e Carlos Henrique]`
 - Data: `[24/09/2026]`
 
 ## Preenchimento
