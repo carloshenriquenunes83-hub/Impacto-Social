@@ -6,7 +6,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`De que forma a automação de tarefas básicas pela IA generativa reconfigura a transição de profissionais júniores para o mercado de trabalho e quais os impactos disso na identidade do trabalho intelectual?`
+`[De que forma a automação de tarefas básicas pela IA generativa reconfigura a transição de profissionais júniores para o mercado de trabalho e quais os impactos disso na identidade do trabalho intelectual?]`
 
 ## Objetivo geral
 
@@ -23,8 +23,8 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[preencher]` |
-| Objetivo geral | `[preencher]` |
+| Problema | `[De que forma a automação de tarefas básicas pela IA generativa reconfigura a transição de profissionais júniores para o mercado de trabalho e quais os impactos disso na identidade do trabalho intelectual?]` |
+| Objetivo geral | `[Preparar trabalhadores informais ou em risco de substituição pela automação para novas exigências do mercado de trabalho.]` |
 | Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
 
 ## Produto da etapa
